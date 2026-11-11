@@ -4107,7 +4107,7 @@
             "target": "x86_64-unknown-linux-gnu"
           }
         },
-        "seedHash": "d04a15b8c784a48bb7807cc123d144f6383d7e1f064164139a2e81d063f000f6"
+        "seedHash": "ed0f3dd71de223a16d8ba05d7c8f897d954027b437930ef55ef143f87a33e64b"
       }
     }
   },
@@ -5149,8 +5149,12 @@
         "dependencies": [
           "ash",
           "jni",
+          "lavashell-actor",
           "lavashell-core",
+          "lavashell-platform",
           "lavashell-renderer",
+          "lavashell-runtime",
+          "lavashell-test-fixtures",
           "lavashell-vulkan",
           "log",
           "ndk",

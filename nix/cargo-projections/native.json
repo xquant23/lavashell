@@ -4052,7 +4052,7 @@
             "target": "x86_64-unknown-linux-gnu"
           }
         },
-        "seedHash": "12c37a5837571b4978f3110fc13baefa1d505bfbd51ddb63d39a0d8dc551dfda"
+        "seedHash": "e2468e4736d163dd6696d75e17863408aab5225a3ecedb419dee7e459e00ced3"
       }
     }
   },
@@ -5103,6 +5103,7 @@
           "lavashell-vulkan",
           "log",
           "ndk",
+          "ndk-sys",
           "rustix",
           "thiserror 2.0.21"
         ],

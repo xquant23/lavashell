@@ -4107,7 +4107,7 @@
             "target": "x86_64-unknown-linux-gnu"
           }
         },
-        "seedHash": "aac44f279742d3258fb294ea0a0a843ff90db9f8ed9e87c4e2bb22d5bd8b58d9"
+        "seedHash": "6f5b84076ad9de80e9971674dd4170bcc0311b494eeef8c95df0c1a3787119ef"
       }
     }
   },
@@ -5148,6 +5148,7 @@
       {
         "dependencies": [
           "ash",
+          "icu_locale_core",
           "jni",
           "lavashell-actor",
           "lavashell-core",
